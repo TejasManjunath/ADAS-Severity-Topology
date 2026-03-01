@@ -1,0 +1,4 @@
+mechanism_clean,total_accidents,risk_score,AVPI
+Leaving carriageway (right),6705,0.1481225947832765,2.643873940672995
+Leaving carriageway (left),2868,0.169590524480405,2.594205845832477
+Collision - oncoming vehicle,4149,0.1414965945018146,2.4336300647249383
