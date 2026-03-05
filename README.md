@@ -688,6 +688,8 @@ The goal is to explore how large-scale accident data can be used to identify val
 - ISO 21448:2022 — Road Vehicles: Safety of the Intended Functionality (SOTIF)
 - Statistische Ämter des Bundes und der Länder — German Federal and State Statistical Offices (unfallatlas.statistikportal.de)
 - German In-Depth Accident Study (GIDAS) — Methodology and variable documentation
+- Openai/ChatGPT
+- Claude.ai
 
 ---
 
