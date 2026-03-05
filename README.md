@@ -13,7 +13,7 @@
 
 ADAS validation programs rely on predefined scenario catalogues, primarily defined by Euro NCAP, to determine which crash situations are tested during development. However, the relationship between these validation scenarios and the real-world distribution of severe injuries has not been systematically quantified using national-scale accident data.
 
-This project analyses approximately **1.53 million German traffic accidents** to identify crash scenarios associated with the highest severe injury probabilities. A logistic regression severity model and compound scenario analysis were used to quantify severity amplification across crash mechanisms, road conditions, and participant types.
+This project analyses approximately **1.53 million German traffic accidents recorded between 2019 and 2024** to identify crash scenarios associated with the highest severe injury probabilities. A logistic regression severity model and compound scenario analysis were used to quantify severity amplification across crash mechanisms, road conditions, and participant types.
 
 Results show that several high-severity crash scenarios — particularly **motorcycle leaving-carriageway crashes and complex oncoming collisions** — exhibit severe injury rates between **40% and 62%**, far above the national severe injury baseline of **18.56%**. Multiple such scenarios are either partially represented or completely absent in current Euro NCAP AEB test protocols.
 
@@ -117,7 +117,7 @@ This project constructs a rigorous, reproducible answer to that question using n
 |-----------|--------|
 | Source | German national accident database (Statistische Ämter des Bundes und der Länder) |
 | Coverage | 2019–2024, multi-year |
-| Total records | ~1,530,000 accident cases |
+| Total records | 1,539,249 accident cases |
 | Raw file size | ~400 MB |
 | Cleaned file size | ~180 MB |
 
